@@ -1,4 +1,4 @@
-import Bakery from './Bakery';
+import Bakery from './main';
 
 function App() {
   return <Bakery />;
